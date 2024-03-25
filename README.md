@@ -1,5 +1,7 @@
 # DICAM: Deep Inception and Channel-wise Attention Modules for underwater image enhancement
-The manuscript is available at [![Manuscript](https://www.hamidrezafarhadi.com/img/pdficon.png)](https://www.sciencedirect.com/science/article/pii/S0925231224003564) or 
+
+The manuscript is available at [![Manuscript](https://www.hamidrezafarhadi.com/img/pdficon.png)](https://www.sciencedirect.com/science/article/pii/S0925231224003564)
+--
 https://www.sciencedirect.com/science/article/pii/S0925231224003564 
 
 
