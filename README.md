@@ -1,8 +1,7 @@
 # DICAM: Deep Inception and Channel-wise Attention Modules for underwater image enhancement
 [![GitHub stars](https://img.shields.io/github/stars/username/repository.svg?style=social)](https://github.com/hfarhaditolie/DICAM/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/username/repository.svg?style=social)](https://github.com/hfarhaditolie/DICAM/forks)
-![Link to Manuscript]([link_to_manuscript](https://www.sciencedirect.com/science/article/pii/S0925231224003564))
-
+[![Manuscript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APDF_file_icon.svg&psig=AOvVaw2WulZ1RZerh40DyOOESLWf&ust=1711450229288000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjm14mfj4UDFQAAAAAdAAAAABAE)](https://www.sciencedirect.com/science/article/pii/S0925231224003564)
 This repository contains the PyTorch implementation of the DICAM underwater image enhancement method provided by the authors.
 
 ## Table of Contents
