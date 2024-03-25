@@ -41,9 +41,9 @@ class CAM(nn.Module):
             nn.AdaptiveAvgPool2d((1,1)),
             Flatten(),
             nn.Linear(in_channels, in_channels // reduction_ratio),
-            nn.Sigmoid(),
+            nn.Softsign(),
             nn.Linear(in_channels // reduction_ratio, in_channels ),
-            nn.Sigmoid()
+            nn.Softsign()
             )
     def forward(self,input):
         return input* self.module(input).unsqueeze(2).unsqueeze(3).expand_as(input)
