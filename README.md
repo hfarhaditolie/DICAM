@@ -22,7 +22,8 @@ This repository contains the PyTorch implementation of the DICAM underwater imag
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Citation](#contributing)
+- [Citation](#citations)
+- [Feedback](#feedback)
 - [License](#license)
 
 ## Installation
@@ -68,5 +69,8 @@ author = {Hamidreza Farhadi Tolie and Jinchang Ren and Eyad Elyan},
 keywords = {Underwater image enhancement, Deep learning, Inception module, Channel-wise attention module},
 }
 ```
+
+## Feedback
+If you have any enquired or feedback, please do not hesitate to contact us via @(h.farhadi-tolie@rgu.ac.uk, h.farhaditolie@gmail.com or jinchang.ren@ieee.org)
 ## License
 This project is licensed under the [MIT License](LICENSE).
