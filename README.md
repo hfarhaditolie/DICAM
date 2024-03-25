@@ -52,5 +52,6 @@ To use Awesome Project, execute the following command:
 
 ```bash
 node awesome.js
+```
 
 ## License
