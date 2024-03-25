@@ -101,6 +101,6 @@ keywords = {Underwater image enhancement, Deep learning, Inception module, Chann
 ```
 
 ## Feedback
-If you have any enquires or feedback, please do not hesitate to contact us via @(h.farhadi-tolie@rgu.ac.uk, h.farhaditolie@gmail.com or jinchang.ren@ieee.org)
+If you have any enquires or feedback, please do not hesitate to contact us via @(h.farhadi-tolie@rgu.ac.uk, h.farhaditolie@gmail.com)
 ## License
 This project is licensed under the [MIT License](LICENSE).
