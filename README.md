@@ -18,19 +18,19 @@ To install Awesome Project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/awesome-project.git
+    git clone https://github.com/hfarhaditolie/DICAM
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd awesome-project
+    cd DICAM
     ```
 
 3. Install dependencies:
 
     ```bash
-    npm install
+    pip3 install -r requirements.txt
     ```
 
 ## Usage
