@@ -22,7 +22,7 @@ This repository contains the PyTorch implementation of the DICAM underwater imag
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Citation](#citations)
+- [Citation](#citation)
 - [Feedback](#feedback)
 - [License](#license)
 
