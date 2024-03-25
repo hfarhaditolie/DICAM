@@ -5,9 +5,9 @@
 
 This repository contains the PyTorch implementation of the DICAM underwater image enhancement method provided by the authors.
 
-![Image Description](https://ars.els-cdn.com/content/image/1-s2.0-S0925231224003564-gr2.jpg)
+![Image Description](https://ars.els-cdn.com/content/image/1-s2.0-S0925231224003564-gr2_lrg.jpg)
 
-![Image Description](https://ars.els-cdn.com/content/image/1-s2.0-S0925231224003564-gr3.jpg)
+![Image Description](https://ars.els-cdn.com/content/image/1-s2.0-S0925231224003564-gr3_lrg.jpg)
 
 
 
