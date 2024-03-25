@@ -1,6 +1,6 @@
 # Underwater Image Enhancement using Deep Inception and Channel-wise Attention Modules (DICAM)
-[![GitHub stars](https://img.shields.io/github/stars/hfarhaditolie/repository.svg?style=flat-square)](https://github.com/hfarhaditolie/DICAM/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/hfarhaditolie/repository.svg?style=flat-square)](https://github.com/hfarhaditolie/DICAM/forks)
+[![GitHub stars](https://img.shields.io/github/stars/username/repository.svg?style=social)](https://github.com/hfarhaditolie/DICAM/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/username/repository.svg?style=social)](https://github.com/hfarhaditolie/DICAM/forks)
 ## Table of Contents
 
 - [Installation](#installation)
@@ -11,7 +11,6 @@
 ## Installation
 
 To install Awesome Project, follow these steps:
-
 1. Clone the repository:
 
     ```bash
