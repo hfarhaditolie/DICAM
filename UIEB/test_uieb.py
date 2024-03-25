@@ -22,7 +22,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 ch = 3
 
 network = DICAM()
-checkpoint = torch.load(os.path.join(CHECKPOINTS_DIR,"DICAM_501.pt"),map_location=torch.device('cpu'))
+checkpoint = torch.load(os.path.join(CHECKPOINTS_DIR,"DICAM_60.pt"),map_location=torch.device('cpu'))
 network.load_state_dict(checkpoint['model_state_dict'])
 network.eval()
 network.to(device)
