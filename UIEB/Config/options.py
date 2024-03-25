@@ -13,7 +13,7 @@ parser.add_argument('--num_images', type=int, default=800)
 
 parser.add_argument('--learning_rate_g', type=float, default=1e-02)
 
-parser.add_argument('--end_epoch', type=int, default=50)
+parser.add_argument('--end_epoch', type=int, default=60)
 parser.add_argument('--img_extension', default='.png')
 parser.add_argument('--image_size', type=int ,default=256)
 
