@@ -48,11 +48,24 @@ To install Awesome Project, follow these steps:
     ```
 
 ## Usage
+Sure, here's a revised version:
 
-To use Awesome Project, execute the following command:
+To utilize the DICAM method for training, please follow these steps:
+
+1. Download the UIEB and EUVP datasets from their respective sources.
+   - For UIEB dataset, refer to the instructions provided in [UIEB dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/UIEB/readme.md).
+   - For EUVP dataset, refer to the instructions provided in [EUVP dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/EUVP/readme.md).
+   
+2. Place the downloaded datasets in the 'Data/' directory of the DICAM repository, following the descriptions provided in each dataset's README.
+
+3. Navigate to the 'UIEB/' directory for UIEB dataset or 'EUVP/' directory for EUVP dataset.
+
+4. Run the 'train_uieb.py' script for UIEB dataset or 'train_euvp.py' script for EUVP dataset.
 
 ```bash
-node awesome.js
+python3 UIEB/train_uieb.py
+python3 EUVP/train_euvp.py
+
 ```
 
 ## Citation
@@ -71,6 +84,6 @@ keywords = {Underwater image enhancement, Deep learning, Inception module, Chann
 ```
 
 ## Feedback
-If you have any enquired or feedback, please do not hesitate to contact us via @(h.farhadi-tolie@rgu.ac.uk, h.farhaditolie@gmail.com or jinchang.ren@ieee.org)
+If you have any enquires or feedback, please do not hesitate to contact us via @(h.farhadi-tolie@rgu.ac.uk, h.farhaditolie@gmail.com or jinchang.ren@ieee.org)
 ## License
 This project is licensed under the [MIT License](LICENSE).
