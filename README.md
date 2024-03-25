@@ -1,5 +1,5 @@
 # DICAM: Deep Inception and Channel-wise Attention Modules for underwater image enhancement
-[![Manuscript](https://webftp.your-server.de/index.php?r=/download&path=L3B1YmxpY19odG1sL2ltZy83NzQ2ODRfcGRmX2RvY3VtZW50X2V4dGVuc2lvbl9maWxlX2Zvcm1hdF9pY29uLnBuZw%3D%3D)](https://www.sciencedirect.com/science/article/pii/S0925231224003564)
+[![Manuscript](https://www.hamidrezafarhadi.com/img/pdficon.png)](https://www.sciencedirect.com/science/article/pii/S0925231224003564)
 
 [![GitHub stars](https://img.shields.io/github/stars/username/repository.svg?style=social)](https://github.com/hfarhaditolie/DICAM/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/username/repository.svg?style=social)](https://github.com/hfarhaditolie/DICAM/forks)
