@@ -54,5 +54,19 @@ To use Awesome Project, execute the following command:
 node awesome.js
 ```
 
+## Citation
+```bash
+@article{TOLIE2024127585,
+title = {DICAM: Deep Inception and Channel-wise Attention Modules for underwater image enhancement},
+journal = {Neurocomputing},
+pages = {127585},
+year = {2024},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2024.127585},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231224003564},
+author = {Hamidreza Farhadi Tolie and Jinchang Ren and Eyad Elyan},
+keywords = {Underwater image enhancement, Deep learning, Inception module, Channel-wise attention module},
+}
+```
 ## License
 This project is licensed under the [MIT License](LICENSE).
