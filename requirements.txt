@@ -1,0 +1,10 @@
+numpy==1.23.0
+opencv-python==4.5.5.62
+pandas==1.5.3
+pillow==10.2.0
+pytorch-mssim==0.2.0
+pytorch-ssim==0.1
+scikit-image==0.20.0
+torch==2.0.0
+torchvision==0.15.0
+tqdm==4.65.0
