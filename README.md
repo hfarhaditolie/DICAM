@@ -22,7 +22,7 @@ This repository contains the PyTorch implementation of the DICAM underwater imag
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Citation](#contributing)
 - [License](#license)
 
 ## Installation
@@ -52,3 +52,5 @@ To use Awesome Project, execute the following command:
 
 ```bash
 node awesome.js
+
+## License
