@@ -48,8 +48,6 @@ To install Awesome Project, follow these steps:
     ```
 
 ## Usage
-Sure, here's a revised version:
-
 To utilize the DICAM method for training, please follow these steps:
 
 1. Download the UIEB and EUVP datasets from their respective sources.
@@ -60,13 +58,30 @@ To utilize the DICAM method for training, please follow these steps:
 
 3. Navigate to the 'UIEB/' directory for UIEB dataset or 'EUVP/' directory for EUVP dataset.
 
-4. Run the 'train_uieb.py' script for UIEB dataset or 'train_euvp.py' script for EUVP dataset.
+4. Run the _train_uieb.py_ script for UIEB dataset or _train_euvp.py_ script for EUVP dataset.
 
 ```bash
 python3 UIEB/train_uieb.py
-python3 EUVP/train_euvp.py
-
 ```
+```bash
+python3 EUVP/train_euvp.py
+```
+
+---
+To utilize the DICAM method for testing, please follow these steps:
+
+1. After downloading the datasets, navigate to the 'UIEB/' directory for UIEB dataset or 'EUVP/' directory for EUVP dataset.
+
+2. Run the _test_uieb.py_ script for UIEB dataset or _test_euvp.py_ script for EUVP dataset.
+
+```bash
+python3 UIEB/test_uieb.py
+```
+```bash
+python3 EUVP/test_euvp.py
+```
+---
+To get the histogram evaluation, you need to run the _hist_distance.m_ script and specify the path for the generated enhanced images and their corresponding ground-truth ones.
 
 ## Citation
 ```bash
