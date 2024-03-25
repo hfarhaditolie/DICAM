@@ -1,6 +1,6 @@
 # Underwater Image Enhancement using Deep Inception and Channel-wise Attention Modules (DICAM)
 [![GitHub stars](https://img.shields.io/github/stars/username/repository.svg?style=flat-square)](https://github.com/hfarhaditolie/DICAM/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/username/repository.svg?style=flat-square)](https://github.com/hfarhaditolie/DICAM/network)
+[![GitHub forks](https://img.shields.io/github/forks/username/repository.svg?style=flat-square)](https://github.com/hfarhaditolie/DICAM/forks)
 ## Table of Contents
 
 - [Installation](#installation)
