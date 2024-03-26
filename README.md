@@ -2,6 +2,7 @@
 
 # DICAM: Deep Inception and Channel-wise Attention Modules for underwater image enhancement
 
+</div>
 This repository contains the PyTorch implementation of the DICAM underwater image enhancement method provided by the authors.
 
 The manuscript is available at [![Manuscript](https://www.hamidrezafarhadi.com/img/pdficon.png)](https://www.sciencedirect.com/science/article/pii/S0925231224003564)
