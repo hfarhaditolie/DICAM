@@ -10,7 +10,7 @@
 **Neurocomputing**
 
 <hr>
-<a href="[https://arxiv.org/abs/2401.10891](https://www.sciencedirect.com/science/article/pii/S0925231224003564)"><img src='[https://img.shields.io/badge/arXiv-Depth Anything-red](https://www.hamidrezafarhadi.com/img/pdficon.png)' alt='Paper PDF'></a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0925231224003564"><img src="https://www.hamidrezafarhadi.com/img/pdficon.png' alt='Paper PDF'></a>
 
 </div>
 This repository contains the PyTorch implementation of the DICAM underwater image enhancement method provided by the authors.
