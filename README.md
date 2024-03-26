@@ -7,11 +7,7 @@
 
 <sup>b</sup> School of Computing, Robert Gordon University, UK
 
-**Neurocomputing**
-
 <hr>
-<a href="https://www.sciencedirect.com/science/article/pii/S0925231224003564"><img src='https://www.hamidrezafarhadi.com/img/pdficon.png' alt='Paper PDF'></a>
-
 <br>
 </div>
 
