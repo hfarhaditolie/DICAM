@@ -6,6 +6,9 @@
 <sup>a</sup>National Subsea Centre, Robert Gordon University, UK
 
 <sup>b</sup> School of Computing, Robert Gordon University, UK
+
+**Neurocomputing**
+
 </div>
 ---
 
