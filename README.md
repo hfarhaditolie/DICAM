@@ -34,7 +34,7 @@ https://www.sciencedirect.com/science/article/pii/S0925231224003564
 
 ## Installation
 
-To install Awesome Project, follow these steps:
+To install DICAM, follow these steps:
 1. Clone the repository:
 
     ```bash
