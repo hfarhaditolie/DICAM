@@ -99,7 +99,8 @@ author = {Hamidreza Farhadi Tolie and Jinchang Ren and Eyad Elyan},
 keywords = {Underwater image enhancement, Deep learning, Inception module, Channel-wise attention module},
 }
 ```
-
+## Acknowledgement
+We extend our gratitude to the creators of WaveNet for generously sharing their source code, which can be accessed ![Link](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration). This has greatly simplified the process of loading images from individual datasets.
 ## Feedback
 If you have any enquires or feedback, please do not hesitate to contact us via @(h.farhadi-tolie@rgu.ac.uk, h.farhaditolie@gmail.com)
 ## License
