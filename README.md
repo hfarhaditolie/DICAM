@@ -12,11 +12,6 @@
 <a href='https://www.sciencedirect.com/science/article/pii/S0925231224003564'><img src='https://img.shields.io/badge/%20DICAM%20-%20Paper?label=Manuscript&labelColor=(255%2C0%2C0)&color=red' alt='Project Page'></a>
 <a href='https://huggingface.co/spaces/sentorion/DICAM-Demo'><img src='https://img.shields.io/badge/%20DICAM%20-%20Paper?label=%F0%9F%A4%97%20Hugging%20Face&color=green'></a>
 
-<video width="400" controls>
-  <source src="https://www.youtube.com/watch?v=iSTHMiGeX6U" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML video.
-</video>
 <br>
 
 </div>
