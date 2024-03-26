@@ -1,10 +1,11 @@
 <div align="center">
 
 # DICAM: Deep Inception and Channel-wise Attention Modules for underwater image enhancement
-[**Hamidreza Farhadi Tolie**]([[https://liheyoung.github.io/](https://github.com/hfarhaditolie/)](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1))<sup>1</sup> · [**Jinchang Ren**]([https://scholar.google.com/citations?user=NmHgX-wAAAAJ](https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en))<sup>1</sup> · [**Eyad Elyan**]([http://speedinghzl.github.io/](https://scholar.google.co.uk/citations?user=m3-aOvsAAAAJ&hl=en))<sup>2</sup>
+[**Hamidreza Farhadi Tolie**]([[https://liheyoung.github.io/](https://github.com/hfarhaditolie/)](https://scholar.google.com/citations?user=nzCbjWIAAAAJ&hl=en&authuser=1))<sup>a</sup> · [**Jinchang Ren**]([https://scholar.google.com/citations?user=NmHgX-wAAAAJ](https://scholar.google.co.uk/citations?user=Vsx9P-gAAAAJ&hl=en))<sup>a</sup> · [**Eyad Elyan**]([http://speedinghzl.github.io/](https://scholar.google.co.uk/citations?user=m3-aOvsAAAAJ&hl=en))<sup>b</sup>
 
-<sup>1</sup>National Subsea Centre, Robert Gordon University, UK
-<sup>2</sup> School of Computing, Robert Gordon University, UK
+<sup>a</sup>National Subsea Centre, Robert Gordon University, UK
+
+<sup>b</sup> School of Computing, Robert Gordon University, UK
 
 </div>
 This repository contains the PyTorch implementation of the DICAM underwater image enhancement method provided by the authors.
