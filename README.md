@@ -9,7 +9,7 @@
 
 <hr>
 
-<a href='https://www.sciencedirect.com/science/article/pii/S0925231224003564'><img src='https://img.shields.io/badge/%20DICAM%20-%20Paper?label=Manuscript' alt='Project Page'></a>
+<a href='https://www.sciencedirect.com/science/article/pii/S0925231224003564'><img src='https://img.shields.io/badge/%20DICAM%20-%20Paper?label=Manuscript&labelColor=(255%2C0%2C0)&color=red' alt='Project Page'></a>
 
 <br>
 
