@@ -11,8 +11,7 @@
 
 <hr>
 <a href="https://www.sciencedirect.com/science/article/pii/S0925231224003564"><img src='https://www.hamidrezafarhadi.com/img/pdficon.png' alt='Paper PDF'></a>
-<a href='https://github.com/hfarhaditolie/DICAM'><img src='https://img.shields.io/badge/Project_Page-Depth Anything-green' alt='Project Page'></a>
-<a href='https://huggingface.co/spaces/sentorion/DICAM-Demo'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
+
 <br>
 </div>
 
