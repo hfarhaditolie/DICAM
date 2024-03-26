@@ -4,8 +4,12 @@ This repository contains the PyTorch implementation of the DICAM underwater imag
 
 The manuscript is available at [![Manuscript](https://www.hamidrezafarhadi.com/img/pdficon.png)](https://www.sciencedirect.com/science/article/pii/S0925231224003564)
 https://www.sciencedirect.com/science/article/pii/S0925231224003564 
---
 
+
+:rocket:  :rocket:  :rocket: **News**:
+
+
+- 2023/03/25 We have made our source codes with the pre-trained model on the UIEB dataset online :)
 
 ---
 
