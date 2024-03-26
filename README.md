@@ -21,7 +21,7 @@ This repository contains the PyTorch implementation of the DICAM underwater imag
 
 :rocket:  :rocket:  :rocket: **News**:
 
-- 2023/03/26 We have deployed an online demo of the DICAM model on [Hugging Face](https://huggingface.co/spaces/sentorion/DICAM-Demo) 🤗
+- 2023/03/26 📢 We're excited to announce the deployment of an online demo showcasing the DICAM model on [Hugging Face](https://huggingface.co/spaces/sentorion/DICAM-Demo) 🤗, running on CPU ⚠️!
 - 2023/03/25 We have made our source codes with the pre-trained model on the UIEB dataset online 😊
 
 
