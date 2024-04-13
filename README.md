@@ -108,6 +108,7 @@ To get the histogram evaluation, you need to run the _hist_distance.m_ script an
 @article{TOLIE2024127585,
 title = {DICAM: Deep Inception and Channel-wise Attention Modules for underwater image enhancement},
 journal = {Neurocomputing},
+volume = {584},
 pages = {127585},
 year = {2024},
 issn = {0925-2312},
