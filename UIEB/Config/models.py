@@ -50,7 +50,7 @@ class CAM(nn.Module):
 
 class DICAM(nn.Module):
     def __init__(self):
-        super(ICAM, self).__init__()
+        super(DICAM, self).__init__()
         self.layer_1_r = Inc(in_channels=1,filters= 64)
         self.layer_1_g = Inc(in_channels=1,filters= 64)
         self.layer_1_b = Inc(in_channels=1,filters= 64)
